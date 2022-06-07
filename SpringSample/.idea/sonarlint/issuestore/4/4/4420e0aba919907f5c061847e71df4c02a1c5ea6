@@ -1,0 +1,7 @@
+
+v
+java:S1450"TRemove the "email" field and declare it as a local variable in the relevant methods.(ª«Õìùÿÿÿÿ8”ÔŸ‡0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïÈşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âÿÚ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î¸ıÿÿÿÿ8 ÔŸ‡0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿…¯°

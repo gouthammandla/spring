@@ -1,0 +1,9 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "code".(¹öºÉ
+N
+java:S1854"8Remove this useless assignment to local variable "name".(‘À¬¿
+?
+java:S1481")Remove this unused "name" local variable.(‘À¬¿
+?
+java:S1481")Remove this unused "code" local variable.(¹öºÉ

@@ -1,0 +1,21 @@
+
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+`
+0src/main/webapp/WEB-INF/SpringSample-servlet.xml,8/3/830b5cc42388d55de684d6c488d82095f308963d
+k
+;src/main/java/com/goutham/mappings/GetCourseReviewDemo.java,a/b/abef47175127f34c261ab710a4d7b08f9aa7916f
+P
+ src/main/java/jdbc/TestJdbc.java,9/8/988b9044f9ff2da93b6720a5fbbdbee6578a1505
+^
+.src/main/java/com/goutham/mappings/Course.java,0/9/090f326c1b816fb26de26980ba0650ab49b0483e
+n
+>src/main/java/com/goutham/mappings/CreateCourseReviewDemo.java,9/4/94be0048edc5558555b33c6f18866ebfdf09f45e
+b
+2src/main/java/com/goutham/mappings/Instructor.java,0/d/0d45df404df0412f4163843584d212117645a799
+h
+8src/main/java/com/goutham/mappings/InstructorDetail.java,c/3/c34376aef0e54ffc482c9cbdd5e747662b6abbe2
+^
+.src/main/java/com/goutham/mappings/Review.java,d/d/ddba2a75faa92831f5c6bceeb0b736f62062b1ae
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec

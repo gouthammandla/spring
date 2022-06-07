@@ -1,0 +1,5 @@
+
+a
+java:S1192"KDefine a constant instead of duplicating this literal "helloworld" 3 times.(éÑª£
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤´û„øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¯ïÛþÿÿÿÿ

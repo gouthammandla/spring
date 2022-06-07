@@ -1,0 +1,3 @@
+com.goutham.mapings.Course=javax.persistence.Entity,javax.persistence.Table
+com.goutham.mapings.Instructor=javax.persistence.Entity,javax.persistence.Table
+com.goutham.mapings.InstructorDetail=javax.persistence.Entity,javax.persistence.Table

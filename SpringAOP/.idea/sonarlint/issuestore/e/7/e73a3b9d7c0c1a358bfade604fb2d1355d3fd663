@@ -1,0 +1,11 @@
+
+N
+java:S1172"8Remove these unused method parameters "account", "flag".(«÷Ö×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¬ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë†ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â¹ñâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ĞØ”™ıÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(˜äÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Â¼ óøÿÿÿÿ
+E
+java:S1172*"/Remove this unused method parameter "tripWire".(ò¤ÖÓ

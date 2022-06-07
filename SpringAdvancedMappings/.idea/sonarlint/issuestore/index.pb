@@ -1,0 +1,21 @@
+
+P
+ src/main/java/jdbc/TestJdbc.java,9/8/988b9044f9ff2da93b6720a5fbbdbee6578a1505
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+h
+8src/main/java/com/goutham/mappings/InstructorDetail.java,c/3/c34376aef0e54ffc482c9cbdd5e747662b6abbe2
+b
+2src/main/java/com/goutham/mappings/Instructor.java,0/d/0d45df404df0412f4163843584d212117645a799
+p
+@src/main/java/com/goutham/mappings/GetInstructorDetailsDemo.java,8/2/82ac3412e160a2a3110c5a69486f1d99ce98d837
+s
+Csrc/main/java/com/goutham/mappings/DeleteInstructorDetailsDemo.java,e/5/e50cbdd5a65181d540f694b1fd8d4aba1987440f
+b
+2src/main/java/com/goutham/mappings/CreateDemo.java,6/8/68f2d6f3e7672c85ff1d5edcd7ffcf09202b115d
+`
+0src/main/webapp/WEB-INF/SpringSample-servlet.xml,8/3/830b5cc42388d55de684d6c488d82095f308963d
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+b
+2src/main/java/com/goutham/mappings/DeleteDemo.java,5/5/555c65917db2ef91cf2d3bf95099674b5fdde73b

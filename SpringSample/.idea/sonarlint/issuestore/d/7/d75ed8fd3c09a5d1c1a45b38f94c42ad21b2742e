@@ -1,0 +1,6 @@
+
+Z
+java:S1659"DDeclare "country" and all following declarations on a separate line.(Š‡†
+
+java:S1319-"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(­ÓÌøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¯ïÛşÿÿÿÿ

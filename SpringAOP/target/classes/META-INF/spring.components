@@ -1,0 +1,6 @@
+com.goutham.aspects.MyApiAnalyticsAspect=org.springframework.stereotype.Component
+com.goutham.aspects.MyCloudLogAsyncAspect=org.springframework.stereotype.Component
+com.goutham.aspects.MyDemoLoginAspect=org.springframework.stereotype.Component
+com.goutham.dao.AccountDao=org.springframework.stereotype.Component
+com.goutham.dao.DemoConfig=org.springframework.stereotype.Component
+com.goutham.dao.MembershipDao=org.springframework.stereotype.Component
